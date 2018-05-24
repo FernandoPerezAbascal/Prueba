@@ -4,7 +4,7 @@ public class Principal {
 	public static void main(String[] args) {
 		// TODO Auto-generated method 
 		
-		System.out.println("HOla mundo");
+		System.out.println("Hola mundo");
 
 	}
 
